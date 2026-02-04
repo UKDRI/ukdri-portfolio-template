@@ -1,0 +1,28 @@
+---
+title: "Projects"
+---
+
+<!--
+PROMPT:
+Pick 2–4 projects. For each:
+- Problem: what question or need?
+- Your role: be explicit.
+- Approach: methods/tools/data.
+- Evidence: repo/paper/poster/dashboard.
+-->
+
+## Project title
+
+**Problem:**  
+<!-- Write 1–2 sentences -->
+
+**My role:**  
+<!-- e.g., pipeline development / analysis / supervision -->
+
+**Approach:**  
+<!-- bullet list of methods/tools -->
+
+**Evidence:**  
+- Repo:
+- Paper / preprint:
+- Report / dashboard:

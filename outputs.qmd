@@ -1,0 +1,14 @@
+---
+title: "Outputs"
+---
+
+<!-- PROMPT: List outputs with links. Group by type. -->
+
+## Publications
+- <!-- Author (Year). Title. Link -->
+
+## Talks & Posters
+- <!-- Event (Year). Title. Link -->
+
+## Software / Data
+- <!-- Tool/Dataset. Link -->

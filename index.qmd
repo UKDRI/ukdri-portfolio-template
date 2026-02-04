@@ -1,0 +1,17 @@
+---
+title: "Home"
+---
+
+# Your Name
+
+<!--
+PROMPT:
+2–3 lines:
+- who you are
+- what you work on
+- why it matters
+-->
+
+## What I work on
+<!-- PROMPT: 3–5 bullets -->
+- <!-- bullet -->

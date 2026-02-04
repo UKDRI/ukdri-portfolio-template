@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "c58e7d4c"
+  },
+  "about.qmd": {
+    "about.html": "08a1cb77"
+  },
+  "projects.qmd": {
+    "projects.html": "c164f6a3"
+  },
+  "resume.qmd": {
+    "resume.html": "5f7bbd2c"
+  },
+  "outputs.qmd": {
+    "outputs.html": "2050572a"
+  }
+}

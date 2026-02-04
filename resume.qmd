@@ -1,0 +1,21 @@
+---
+title: "Résumé for Research"
+---
+
+<!-- PROMPT: Use 2–4 bullets per module. Each bullet should be: What + Why it matters + Evidence -->
+
+## 1. Contributions to the generation of knowledge
+
+- <!-- What you did, impact, evidence link -->
+
+## 2. Contributions to the development of others
+
+- <!-- mentoring, supervision, teaching, docs -->
+
+## 3. Contributions to the wider research community
+
+- <!-- open-source, shared resources, standards, service -->
+
+## 4. Contributions to broader society
+
+- <!-- translational relevance, public engagement, clinical impact -->
