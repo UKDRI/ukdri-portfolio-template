@@ -13,5 +13,9 @@
   },
   "outputs.qmd": {
     "outputs.html": "2050572a"
+  },
+  "cv.qmd": {
+    "cv.html": "e4da790b",
+    "cv.tex": "0ec7f08a"
   }
 }

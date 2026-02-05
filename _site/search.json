@@ -1,45 +1,87 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site"
+    "text": "Your Role / Title\n\n\n🌐 your-website.example | 🐙 GitHub | in LinkedIn | iD ORCID | 📍 Your location\n\n\nPDF"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "cv.html#summary",
+    "href": "cv.html#summary",
+    "title": "CV",
+    "section": "Summary",
+    "text": "Summary\n\nWrite a short professional summary here. Keep it concrete, evidence-based, and readable."
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "CV",
+    "section": "Employment",
+    "text": "Employment\n\nOrganisation — Role Title (YYYY–Present)\n- Impact bullet (what you delivered, improved, enabled, or led)\n- Impact bullet (tools/methods are fine, but include “why it mattered”)\n- Impact bullet\nOrganisation — Role Title (YYYY–YYYY)\n- Impact bullet\n- Impact bullet"
+  },
+  {
+    "objectID": "cv.html#selected-projects-achievements",
+    "href": "cv.html#selected-projects-achievements",
+    "title": "CV",
+    "section": "Selected Projects & Achievements",
+    "text": "Selected Projects & Achievements\n\n\nProject / achievement title: One-line impact statement. (Evidence: repo, report)\n\nProject / achievement title: One-line impact statement.\n\nCommunity / leadership / training: One-line impact statement."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming & Tools: R, Python, Bash, Git, …\nData Analysis: Genomics, transcriptomics, statistics, visualisation, …\nWorkflows & Reproducibility: HPC, containers, CI, documentation, FAIR, …\nCommunication & Teaching: Workshop delivery, mentoring, stakeholder comms, …\nLanguages: English (…), Portuguese (…), …"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nDegree — Institution (YYYY–YYYY)\nFocus: …\nDegree — Institution (YYYY–YYYY)"
+  },
+  {
+    "objectID": "cv.html#awards-fellowships",
+    "href": "cv.html#awards-fellowships",
+    "title": "CV",
+    "section": "Awards & Fellowships",
+    "text": "Awards & Fellowships\n\n\nAward / Fellowship — Organisation (YYYY)\n\nTravel grant — Organisation (YYYY)"
+  },
+  {
+    "objectID": "cv.html#selected-publications",
+    "href": "cv.html#selected-publications",
+    "title": "CV",
+    "section": "Selected Publications",
+    "text": "Selected Publications\n\n\nAuthor, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
+  },
+  {
+    "objectID": "cv.html#outreach-teaching",
+    "href": "cv.html#outreach-teaching",
+    "title": "CV",
+    "section": "Outreach & Teaching",
+    "text": "Outreach & Teaching\n\n\nTeaching / training contribution (audience, topic)\n\nTalk / poster / invited seminar\n\nCommunity service / committee / review activity"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
     "section": "",
-    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …\n\n\n\n\n\n…"
+    "text": "Your Role / Title\n\n\nWrite your biography here. Keep it concrete and readable. Mention your domain, your approach (methods/tools), and what impact you care about.\n\nAffiliations. Address (optional). Contact links (optional). Motto (optional).\n\nWebsite · GitHub · LinkedIn · ORCID"
   },
   {
-    "objectID": "projects.html#project-title",
-    "href": "projects.html#project-title",
-    "title": "Projects",
-    "section": "",
-    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …"
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
+    "title": "Home",
+    "section": "Focus areas",
+    "text": "Focus areas\n\n\nLong-read sequencing\n\nPacBio HiFi, complex loci, structural variation.\n\n\nReproducible workflows\n\nPipelines, documentation, and templates designed for reuse.\n\n\nTranslation & impact\n\nEvidence-first reporting for collaborators and funders."
   },
   {
-    "objectID": "projects.html#project-title-1",
-    "href": "projects.html#project-title-1",
-    "title": "Projects",
-    "section": "",
-    "text": "…"
-  },
-  {
-    "objectID": "outputs.html#talks-posters",
-    "href": "outputs.html#talks-posters",
-    "title": "Outputs",
-    "section": "Talks & Posters",
-    "text": "Talks & Posters"
-  },
-  {
-    "objectID": "outputs.html#software-data",
-    "href": "outputs.html#software-data",
-    "title": "Outputs",
-    "section": "Software / Data",
-    "text": "Software / Data"
+    "objectID": "index.html#start-here",
+    "href": "index.html#start-here",
+    "title": "Home",
+    "section": "Start here",
+    "text": "Start here\n\n\n\nProjects →\nCase studies with your role, approach, and evidence links.\n\n\n\n\nRésumé for Research →\nFour-module narrative CV aligned with funder expectations.\n\n\n\n\nOutputs →\nPublications, talks, software, and datasets."
   },
   {
     "objectID": "resume.html",
@@ -77,24 +119,45 @@
     "text": "4. Contributions to broader society\n\n\nContribution title or short claim\n\nContribution: \nImpact: \nEvidence:"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
+    "objectID": "outputs.html#talks-posters",
+    "href": "outputs.html#talks-posters",
+    "title": "Outputs",
+    "section": "Talks & Posters",
+    "text": "Talks & Posters"
+  },
+  {
+    "objectID": "outputs.html#software-data",
+    "href": "outputs.html#software-data",
+    "title": "Outputs",
+    "section": "Software / Data",
+    "text": "Software / Data"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Note\n\n\n\n\nThis site is a living portfolio: a curated record of projects, outputs, and a narrative CV with linked evidence."
+    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …\n\n\n\n\n\n…"
   },
   {
-    "objectID": "index.html#focus-areas",
-    "href": "index.html#focus-areas",
-    "title": "Home",
-    "section": "Focus areas",
-    "text": "Focus areas\n\n\nLong-read sequencing\n\nPacBio HiFi, complex loci, structural variation.\n\n\nReproducible workflows\n\nPipelines, documentation, and templates designed for reuse.\n\n\nTranslation & impact\n\nEvidence-first reporting for collaborators and funders."
+    "objectID": "projects.html#project-title",
+    "href": "projects.html#project-title",
+    "title": "Projects",
+    "section": "",
+    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …"
   },
   {
-    "objectID": "index.html#start-here",
-    "href": "index.html#start-here",
-    "title": "Home",
-    "section": "Start here",
-    "text": "Start here\n\n\n\nProjects →\nCase studies with your role, approach, and evidence links.\n\n\n\n\nRésumé for Research →\nFour-module narrative CV aligned with funder expectations.\n\n\n\n\nOutputs →\nPublications, talks, software, and datasets."
+    "objectID": "projects.html#project-title-1",
+    "href": "projects.html#project-title-1",
+    "title": "Projects",
+    "section": "",
+    "text": "…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

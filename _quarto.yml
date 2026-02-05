@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - assets/**
 
 website:
   title: "<span class='site-name'><strong>Your</strong> Name</span>"
@@ -13,6 +15,9 @@ website:
         href: resume.qmd
       - text: Outputs
         href: outputs.qmd
+      - text: CV
+        href: cv.qmd
+
     right:
       - icon: github
         href: https://github.com/YOURUSERNAME

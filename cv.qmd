@@ -1,0 +1,146 @@
+---
+title: "CV"
+toc: false
+---
+
+::: {.cv-header}
+# Your Name
+
+<div class="cv-subtitle">Your Role / Title</div>
+
+<div class="cv-links">
+<a href="https://your-website.example" aria-label="Website">🌐 your-website.example</a>
+<span class="cv-sep">|</span>
+<a href="https://github.com/yourusername" aria-label="GitHub">🐙 GitHub</a>
+<span class="cv-sep">|</span>
+<a href="https://www.linkedin.com/in/yourprofile" aria-label="LinkedIn">in LinkedIn</a>
+<span class="cv-sep">|</span>
+<a href="https://orcid.org/0000-0000-0000-0000" aria-label="ORCID">iD ORCID</a>
+<span class="cv-sep">|</span>
+<span aria-label="Location">📍 Your location</span>
+</div>
+
+<!-- PROMPT: Put a PDF in assets/cv.pdf (optional). If you don't have one yet, delete the line below. -->
+<a class="cv-pdf" href="assets/cv.pdf">PDF</a>
+:::
+
+---
+
+## Summary
+
+<!--
+PROMPT (2–4 sentences):
+- What is your role/identity professionally?
+- What types of problems do you work on?
+- What methods or domains are you strongest in?
+- What kind of impact do you aim for?
+-->
+
+Write a short professional summary here. Keep it concrete, evidence-based, and readable.
+
+---
+
+## Employment
+
+<!--
+PROMPT:
+For each role:
+- Organisation, location (optional) — Role title (dates)
+- 2–4 impact bullets
+Use action + outcome when possible.
+-->
+
+**Organisation — Role Title** *(YYYY–Present)*  
+- Impact bullet (what you delivered, improved, enabled, or led)  
+- Impact bullet (tools/methods are fine, but include “why it mattered”)  
+- Impact bullet
+
+**Organisation — Role Title** *(YYYY–YYYY)*  
+- Impact bullet  
+- Impact bullet
+
+---
+
+## Selected Projects & Achievements
+
+<!--
+PROMPT:
+Pick 3–6 items.
+Each item should include:
+- Project/achievement name (bold)
+- 1 sentence on what you did + why it matters
+- Optional evidence links: repo / report / paper / poster
+-->
+
+- **Project / achievement title:** One-line impact statement. *(Evidence: [repo](#), [report](#))*  
+- **Project / achievement title:** One-line impact statement.  
+- **Community / leadership / training:** One-line impact statement.
+
+---
+
+## Skills
+
+<!--
+PROMPT:
+Keep this scannable. Use categories and commas.
+Avoid long lists of buzzwords.
+-->
+
+**Programming & Tools:** R, Python, Bash, Git, …  
+**Data Analysis:** Genomics, transcriptomics, statistics, visualisation, …  
+**Workflows & Reproducibility:** HPC, containers, CI, documentation, FAIR, …  
+**Communication & Teaching:** Workshop delivery, mentoring, stakeholder comms, …  
+**Languages:** English (…), Portuguese (…), …
+
+---
+
+## Education
+
+<!--
+PROMPT:
+Degree — Institution (dates)
+1 line on focus/thesis (optional)
+-->
+
+**Degree — Institution** *(YYYY–YYYY)*  
+Focus: …
+
+**Degree — Institution** *(YYYY–YYYY)*
+
+---
+
+## Awards & Fellowships
+
+<!--
+PROMPT:
+List the award/fellowship name — funder/organisation (year).
+-->
+
+- Award / Fellowship — Organisation (YYYY)  
+- Travel grant — Organisation (YYYY)
+
+---
+
+## Selected Publications
+
+<!--
+PROMPT:
+Keep this short (3–6). Link to full list on Outputs page if you have one.
+-->
+
+- Author, A. (Year). *Title.* Journal. Link  
+- Author, A. (Year). *Title.* Journal. Link
+
+---
+
+## Outreach & Teaching
+
+<!--
+PROMPT:
+Include anything that shows reach and contribution:
+- teaching, workshops, invited talks, public engagement, committees
+-->
+
+- Teaching / training contribution (audience, topic)  
+- Talk / poster / invited seminar  
+- Community service / committee / review activity

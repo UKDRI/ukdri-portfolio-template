@@ -3,19 +3,29 @@ title: "Home"
 toc: false
 ---
 
-::: {.callout-note}
-<!-- PROMPT: 1 sentence: what are you known for / what you build / what you study -->
-**This site is a living portfolio:** a curated record of projects, outputs, and a narrative CV with linked evidence.
-:::
-
+::: {.columns .home-hero}
+::: {.column width="65%"}
 # Your Name
 
-Bioinformatician | Alzheimer’s Disease Genomics | Long-read Sequencing
+<div class="home-subtitle">Your Role / Title</div>
 
-<!-- PROMPT: 2–3 lines: who you are, what you work on, why it matters -->
-I build reproducible genomics workflows and analysis resources to understand complex genetic variation in neurodegenerative disease.
+<!-- PROMPT: 2–4 lines: who you are, what you work on, why it matters -->
+Write your biography here. Keep it concrete and readable. Mention your domain,
+your approach (methods/tools), and what impact you care about.
 
----
+<!-- PROMPT: Optional: one line “affiliations / focus” -->
+*Affiliations. Address (optional). Contact links (optional). Motto (optional).*
+
+::: {.home-links}
+[Website](#) · [GitHub](#) · [LinkedIn](#) · [ORCID](#)
+:::
+:::
+
+::: {.column width="35%"}
+![](assets/images/profile.png){.profile-pic fig-alt="Profile photo"}
+:::
+:::
+
 
 ## Focus areas
 
