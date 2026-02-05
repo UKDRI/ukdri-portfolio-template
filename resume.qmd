@@ -1,21 +1,98 @@
 ---
 title: "Résumé for Research"
+toc: false
 ---
+::: {.callout-note}
+This format emphasises **contributions and impact**, rather than job titles or
+publication counts. Evidence is linked where possible.
+:::
 
-<!-- PROMPT: Use 2–4 bullets per module. Each bullet should be: What + Why it matters + Evidence -->
+
+
+This **Résumé for Research** follows a narrative CV format commonly used by research
+funders. Contributions are organised into four modules.  
+Each entry should clearly state **what you contributed**, **why it matters**, and
+**where the evidence can be found**.
+
+---
 
 ## 1. Contributions to the generation of knowledge
 
-- <!-- What you did, impact, evidence link -->
+<!--
+PROMPT:
+Describe 2–4 key contributions.
+For each, aim for:
+- What you contributed (method, data, insight)
+- Why it matters scientifically
+- Evidence (paper, preprint, repository, report)
+-->
+
+::: {.card}
+**Contribution title or short claim**
+
+- **Contribution:** <!-- What you did -->
+- **Significance:** <!-- Why this matters -->
+- **Evidence:** <!-- Link(s) -->
+:::
+
+---
 
 ## 2. Contributions to the development of others
 
-- <!-- mentoring, supervision, teaching, docs -->
+<!--
+PROMPT:
+Think broadly:
+- Supervision or mentoring
+- Teaching or training
+- Onboarding materials, documentation
+- Informal support that enabled others
+-->
+
+::: {.card}
+**Contribution title or short claim**
+
+- **Contribution:** <!-- e.g. supervision, mentoring, teaching -->
+- **Who benefited:** <!-- students, colleagues, teams -->
+- **Evidence:** <!-- projects, materials, acknowledgements -->
+:::
+
+---
 
 ## 3. Contributions to the wider research community
 
-- <!-- open-source, shared resources, standards, service -->
+<!--
+PROMPT:
+Examples include:
+- Open-source software or data
+- Shared tools, templates, standards
+- Community leadership or service
+-->
+
+::: {.card}
+**Contribution title or short claim**
+
+- **Contribution:** <!-- What you shared or enabled -->
+- **Reach:** <!-- who uses it / scale -->
+- **Evidence:** <!-- repository, adoption, citations -->
+:::
+
+---
 
 ## 4. Contributions to broader society
 
-- <!-- translational relevance, public engagement, clinical impact -->
+<!--
+PROMPT:
+This can include:
+- Translational relevance
+- Clinical or policy impact
+- Public engagement
+- Capacity building or equity
+-->
+
+::: {.card}
+**Contribution title or short claim**
+
+- **Contribution:** <!-- activity or outcome -->
+- **Impact:** <!-- why it matters beyond academia -->
+- **Evidence:** <!-- talks, collaborations, outputs -->
+:::

@@ -11,14 +11,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Problem:\n\nMy role:\n\nApproach:\n\nEvidence:\n- Repo: - Paper / preprint: - Report / dashboard:"
+    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …\n\n\n\n\n\n…"
   },
   {
     "objectID": "projects.html#project-title",
     "href": "projects.html#project-title",
     "title": "Projects",
     "section": "",
-    "text": "Problem:\n\nMy role:\n\nApproach:\n\nEvidence:\n- Repo: - Paper / preprint: - Report / dashboard:"
+    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …"
+  },
+  {
+    "objectID": "projects.html#project-title-1",
+    "href": "projects.html#project-title-1",
+    "title": "Projects",
+    "section": "",
+    "text": "…"
   },
   {
     "objectID": "outputs.html#talks-posters",
@@ -35,24 +42,59 @@
     "text": "Software / Data"
   },
   {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé for Research",
+    "section": "",
+    "text": "Note\n\n\n\nThis format emphasises contributions and impact, rather than job titles or publication counts. Evidence is linked where possible.\nThis Résumé for Research follows a narrative CV format commonly used by research funders. Contributions are organised into four modules.\nEach entry should clearly state what you contributed, why it matters, and where the evidence can be found."
+  },
+  {
+    "objectID": "resume.html#contributions-to-the-generation-of-knowledge",
+    "href": "resume.html#contributions-to-the-generation-of-knowledge",
+    "title": "Résumé for Research",
+    "section": "1. Contributions to the generation of knowledge",
+    "text": "1. Contributions to the generation of knowledge\n\n\nContribution title or short claim\n\nContribution: \nSignificance: \nEvidence:"
+  },
+  {
     "objectID": "resume.html#contributions-to-the-development-of-others",
     "href": "resume.html#contributions-to-the-development-of-others",
     "title": "Résumé for Research",
     "section": "2. Contributions to the development of others",
-    "text": "2. Contributions to the development of others"
+    "text": "2. Contributions to the development of others\n\n\nContribution title or short claim\n\nContribution: \nWho benefited: \nEvidence:"
   },
   {
     "objectID": "resume.html#contributions-to-the-wider-research-community",
     "href": "resume.html#contributions-to-the-wider-research-community",
     "title": "Résumé for Research",
     "section": "3. Contributions to the wider research community",
-    "text": "3. Contributions to the wider research community"
+    "text": "3. Contributions to the wider research community\n\n\nContribution title or short claim\n\nContribution: \nReach: \nEvidence:"
   },
   {
     "objectID": "resume.html#contributions-to-broader-society",
     "href": "resume.html#contributions-to-broader-society",
     "title": "Résumé for Research",
     "section": "4. Contributions to broader society",
-    "text": "4. Contributions to broader society"
+    "text": "4. Contributions to broader society\n\n\nContribution title or short claim\n\nContribution: \nImpact: \nEvidence:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Note\n\n\n\n\nThis site is a living portfolio: a curated record of projects, outputs, and a narrative CV with linked evidence."
+  },
+  {
+    "objectID": "index.html#focus-areas",
+    "href": "index.html#focus-areas",
+    "title": "Home",
+    "section": "Focus areas",
+    "text": "Focus areas\n\n\nLong-read sequencing\n\nPacBio HiFi, complex loci, structural variation.\n\n\nReproducible workflows\n\nPipelines, documentation, and templates designed for reuse.\n\n\nTranslation & impact\n\nEvidence-first reporting for collaborators and funders."
+  },
+  {
+    "objectID": "index.html#start-here",
+    "href": "index.html#start-here",
+    "title": "Home",
+    "section": "Start here",
+    "text": "Start here\n\n\n\nProjects →\nCase studies with your role, approach, and evidence links.\n\n\n\n\nRésumé for Research →\nFour-module narrative CV aligned with funder expectations.\n\n\n\n\nOutputs →\nPublications, talks, software, and datasets."
   }
 ]

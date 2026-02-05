@@ -1,17 +1,70 @@
 ---
 title: "Home"
+toc: false
 ---
+
+::: {.callout-note}
+<!-- PROMPT: 1 sentence: what are you known for / what you build / what you study -->
+**This site is a living portfolio:** a curated record of projects, outputs, and a narrative CV with linked evidence.
+:::
 
 # Your Name
 
-<!--
-PROMPT:
-2–3 lines:
-- who you are
-- what you work on
-- why it matters
--->
+Bioinformatician | Alzheimer’s Disease Genomics | Long-read Sequencing
 
-## What I work on
-<!-- PROMPT: 3–5 bullets -->
-- <!-- bullet -->
+<!-- PROMPT: 2–3 lines: who you are, what you work on, why it matters -->
+I build reproducible genomics workflows and analysis resources to understand complex genetic variation in neurodegenerative disease.
+
+---
+
+## Focus areas
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+### Long-read sequencing
+<!-- PROMPT: 1–2 lines -->
+PacBio HiFi, complex loci, structural variation.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Reproducible workflows
+<!-- PROMPT: 1–2 lines -->
+Pipelines, documentation, and templates designed for reuse.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Translation & impact
+<!-- PROMPT: 1–2 lines -->
+Evidence-first reporting for collaborators and funders.
+:::
+:::
+
+---
+
+## Start here
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+[**Projects →**](projects.qmd)
+
+Case studies with your role, approach, and evidence links.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+[**Résumé for Research →**](resume.qmd)
+
+Four-module narrative CV aligned with funder expectations.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.card}
+[**Outputs →**](outputs.qmd)
+
+Publications, talks, software, and datasets.
+:::
+:::
+:::
