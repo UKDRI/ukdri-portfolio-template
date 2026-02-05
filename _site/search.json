@@ -2,156 +2,177 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Your Role / Title\n\n\n🌐 your-website.example | 🐙 GitHub | in LinkedIn | iD ORCID | 📍 Your location\n\n\nPDF"
+    "text": "Your role / job title\n\n\n🌐 your-website.example | 🐙 GitHub | in LinkedIn | iD ORCID | 📍 Your location\n\n\nPDF"
   },
   {
     "objectID": "cv.html#summary",
     "href": "cv.html#summary",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Summary",
-    "text": "Summary\n\nWrite a short professional summary here. Keep it concrete, evidence-based, and readable."
+    "text": "Summary\n\nWrite a short professional summary here. Keep it concrete and readable. Mention your main domain, the kinds of methods you use, and the impact you aim for."
   },
   {
     "objectID": "cv.html#employment",
     "href": "cv.html#employment",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Employment",
-    "text": "Employment\n\nOrganisation — Role Title (YYYY–Present)\n- Impact bullet (what you delivered, improved, enabled, or led)\n- Impact bullet (tools/methods are fine, but include “why it mattered”)\n- Impact bullet\nOrganisation — Role Title (YYYY–YYYY)\n- Impact bullet\n- Impact bullet"
+    "text": "Employment\n\nOrganisation — Role title (YYYY–Present)\n- What you delivered, built, or enabled. - How this helped the project, team, or organisation. - Tools or methods are fine, but include why it mattered.\nOrganisation — Role title (YYYY–YYYY)\n- Impact-focused bullet. - Impact-focused bullet."
   },
   {
     "objectID": "cv.html#selected-projects-achievements",
     "href": "cv.html#selected-projects-achievements",
-    "title": "CV",
-    "section": "Selected Projects & Achievements",
-    "text": "Selected Projects & Achievements\n\n\nProject / achievement title: One-line impact statement. (Evidence: repo, report)\n\nProject / achievement title: One-line impact statement.\n\nCommunity / leadership / training: One-line impact statement."
+    "title": "Curriculum Vitae",
+    "section": "Selected projects & achievements",
+    "text": "Selected projects & achievements\n\n\nProject or achievement title: What you did and why it matters.\n(Evidence: repo, report, paper)\nProject or achievement title: One-line impact statement.\nCommunity / leadership / training contribution: One-line impact statement."
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Skills",
-    "text": "Skills\n\nProgramming & Tools: R, Python, Bash, Git, …\nData Analysis: Genomics, transcriptomics, statistics, visualisation, …\nWorkflows & Reproducibility: HPC, containers, CI, documentation, FAIR, …\nCommunication & Teaching: Workshop delivery, mentoring, stakeholder comms, …\nLanguages: English (…), Portuguese (…), …"
+    "text": "Skills\n\nProgramming & tools: R, Python, Bash, Git, …\nData & analysis: Genomics, transcriptomics, statistics, visualisation, …\nWorkflows & reproducibility: HPC, containers, CI, documentation, FAIR, …\nCommunication & teaching: Workshops, mentoring, stakeholder communication, …\nLanguages: English (…), Portuguese (…), …"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\nDegree — Institution (YYYY–YYYY)\nFocus: …\nDegree — Institution (YYYY–YYYY)"
+    "text": "Education\n\nDegree — Institution (YYYY–YYYY)\nFocus or thesis area (optional).\nDegree — Institution (YYYY–YYYY)"
   },
   {
     "objectID": "cv.html#awards-fellowships",
     "href": "cv.html#awards-fellowships",
-    "title": "CV",
-    "section": "Awards & Fellowships",
-    "text": "Awards & Fellowships\n\n\nAward / Fellowship — Organisation (YYYY)\n\nTravel grant — Organisation (YYYY)"
+    "title": "Curriculum Vitae",
+    "section": "Awards & fellowships",
+    "text": "Awards & fellowships\n\n\nAward / fellowship — organisation or funder (YYYY)\n\nTravel grant — organisation (YYYY)"
   },
   {
     "objectID": "cv.html#selected-publications",
     "href": "cv.html#selected-publications",
-    "title": "CV",
-    "section": "Selected Publications",
-    "text": "Selected Publications\n\n\nAuthor, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
+    "title": "Curriculum Vitae",
+    "section": "Selected publications",
+    "text": "Selected publications\n\n\nAuthor, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
   },
   {
     "objectID": "cv.html#outreach-teaching",
     "href": "cv.html#outreach-teaching",
-    "title": "CV",
-    "section": "Outreach & Teaching",
-    "text": "Outreach & Teaching\n\n\nTeaching / training contribution (audience, topic)\n\nTalk / poster / invited seminar\n\nCommunity service / committee / review activity"
+    "title": "Curriculum Vitae",
+    "section": "Outreach & teaching",
+    "text": "Outreach & teaching\n\n\nTeaching or training contribution (audience, topic)\nInvited talk, poster, or seminar\nCommunity service, committee work, or peer review"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Your Role / Title\n\n\nWrite your biography here. Keep it concrete and readable. Mention your domain, your approach (methods/tools), and what impact you care about.\n\nAffiliations. Address (optional). Contact links (optional). Motto (optional).\n\nWebsite · GitHub · LinkedIn · ORCID"
+    "text": "Your role / job title\n\n\nWrite a short professional bio here. Focus on your research or technical domain, the kinds of methods or tools you use, and the impact you care about.\n\nAffiliation · Institute · Research focus (optional)\n\nWebsite · GitHub · LinkedIn · ORCID"
   },
   {
     "objectID": "index.html#focus-areas",
     "href": "index.html#focus-areas",
     "title": "Home",
     "section": "Focus areas",
-    "text": "Focus areas\n\n\nLong-read sequencing\n\nPacBio HiFi, complex loci, structural variation.\n\n\nReproducible workflows\n\nPipelines, documentation, and templates designed for reuse.\n\n\nTranslation & impact\n\nEvidence-first reporting for collaborators and funders."
+    "text": "Focus areas\n\n\n\nLong-read sequencing\n\nPacBio HiFi, complex loci, structural variation.\n\n\nReproducible workflows\n\nPipelines, documentation, and templates designed for reuse.\n\n\nTranslation & impact\n\nEvidence-first reporting for collaborators and funders."
   },
   {
     "objectID": "index.html#start-here",
     "href": "index.html#start-here",
     "title": "Home",
     "section": "Start here",
-    "text": "Start here\n\n\n\nProjects →\nCase studies with your role, approach, and evidence links.\n\n\n\n\nRésumé for Research →\nFour-module narrative CV aligned with funder expectations.\n\n\n\n\nOutputs →\nPublications, talks, software, and datasets."
+    "text": "Start here\n\n\n\n\nProjects →\nShort case studies showing what you did, how you did it, and why it matters.\n\n\n\n\nRésumé for Research →\nA narrative CV using four modules, aligned with current funder expectations.\n\n\n\n\nOutputs →\nPublications, talks, software, datasets, and other things you’ve put into the world."
   },
   {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Résumé for Research",
     "section": "",
-    "text": "Note\n\n\n\nThis format emphasises contributions and impact, rather than job titles or publication counts. Evidence is linked where possible.\nThis Résumé for Research follows a narrative CV format commonly used by research funders. Contributions are organised into four modules.\nEach entry should clearly state what you contributed, why it matters, and where the evidence can be found."
+    "text": "Note\n\n\n\nThis format focuses on contributions and impact, rather than job titles or publication counts. Wherever possible, link to evidence that supports your claims.\nThis Résumé for Research uses a narrative CV structure, commonly requested by research funders and institutions.\nContributions are grouped into four modules. For each entry, aim to make clear:"
   },
   {
     "objectID": "resume.html#contributions-to-the-generation-of-knowledge",
     "href": "resume.html#contributions-to-the-generation-of-knowledge",
     "title": "Résumé for Research",
     "section": "1. Contributions to the generation of knowledge",
-    "text": "1. Contributions to the generation of knowledge\n\n\nContribution title or short claim\n\nContribution: \nSignificance: \nEvidence:"
+    "text": "1. Contributions to the generation of knowledge\n\n\n\n\nContribution title or short claim\n\nContribution: What you did or produced.\nSignificance: Why this advances understanding in your field.\nEvidence: Link to a paper, preprint, repository, report, or dataset."
   },
   {
     "objectID": "resume.html#contributions-to-the-development-of-others",
     "href": "resume.html#contributions-to-the-development-of-others",
     "title": "Résumé for Research",
     "section": "2. Contributions to the development of others",
-    "text": "2. Contributions to the development of others\n\n\nContribution title or short claim\n\nContribution: \nWho benefited: \nEvidence:"
+    "text": "2. Contributions to the development of others\n\n\n\n\nContribution title or short claim\n\nContribution: e.g. supervision, mentoring, teaching, onboarding resources.\nWho benefited: students, colleagues, teams, or communities.\nEvidence: materials, projects, acknowledgements, feedback."
   },
   {
     "objectID": "resume.html#contributions-to-the-wider-research-community",
     "href": "resume.html#contributions-to-the-wider-research-community",
     "title": "Résumé for Research",
     "section": "3. Contributions to the wider research community",
-    "text": "3. Contributions to the wider research community\n\n\nContribution title or short claim\n\nContribution: \nReach: \nEvidence:"
+    "text": "3. Contributions to the wider research community\n\n\n\n\nContribution title or short claim\n\nContribution: What you shared, led, or enabled.\nReach: Who uses it, or how widely it has been adopted.\nEvidence: repositories, usage, citations, invitations."
   },
   {
     "objectID": "resume.html#contributions-to-broader-society",
     "href": "resume.html#contributions-to-broader-society",
     "title": "Résumé for Research",
     "section": "4. Contributions to broader society",
-    "text": "4. Contributions to broader society\n\n\nContribution title or short claim\n\nContribution: \nImpact: \nEvidence:"
+    "text": "4. Contributions to broader society\n\n\n\n\nContribution title or short claim\n\nContribution: Activity, output, or engagement.\nImpact: Why this matters beyond academia.\nEvidence: talks, collaborations, media, outputs."
+  },
+  {
+    "objectID": "outputs.html",
+    "href": "outputs.html",
+    "title": "Outputs",
+    "section": "",
+    "text": "Author, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
+  },
+  {
+    "objectID": "outputs.html#publications",
+    "href": "outputs.html#publications",
+    "title": "Outputs",
+    "section": "",
+    "text": "Author, A. (Year). Title. Journal. Link\n\nAuthor, A. (Year). Title. Journal. Link"
   },
   {
     "objectID": "outputs.html#talks-posters",
     "href": "outputs.html#talks-posters",
     "title": "Outputs",
-    "section": "Talks & Posters",
-    "text": "Talks & Posters"
+    "section": "Talks & posters",
+    "text": "Talks & posters\n\n\nEvent / venue (Year). Title. Link\n\nEvent / venue (Year). Title. Link"
   },
   {
-    "objectID": "outputs.html#software-data",
-    "href": "outputs.html#software-data",
+    "objectID": "outputs.html#software-data-other-resources",
+    "href": "outputs.html#software-data-other-resources",
     "title": "Outputs",
-    "section": "Software / Data",
-    "text": "Software / Data"
+    "section": "Software, data & other resources",
+    "text": "Software, data & other resources\n\n\nTool / dataset name: One-line description. Link\n\nResource name: One-line description. Link"
+  },
+  {
+    "objectID": "outputs.html#other-outputs-optional",
+    "href": "outputs.html#other-outputs-optional",
+    "title": "Outputs",
+    "section": "Other outputs (optional)",
+    "text": "Other outputs (optional)\n\n\nOutput name (Year). One-line description. Link"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …\n\n\n\n\n\n…"
+    "text": "Problem: What needed solving, understanding, or building?\n\nMy role: What you were responsible for (analysis, methods, coordination, etc.).\n\nApproach: How you went about it (methods, data, tools).\n\nEvidence: - Repo: … - Report / preprint: … - Paper / poster: …\n\n\n\n\n\nProblem: …\nMy role: …\nApproach: …\nEvidence: - Repo: … - Output: …"
   },
   {
     "objectID": "projects.html#project-title",
     "href": "projects.html#project-title",
     "title": "Projects",
     "section": "",
-    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence:\n- Repo: … - Report: … - Paper: …"
+    "text": "Problem: What needed solving, understanding, or building?\n\nMy role: What you were responsible for (analysis, methods, coordination, etc.).\n\nApproach: How you went about it (methods, data, tools).\n\nEvidence: - Repo: … - Report / preprint: … - Paper / poster: …"
   },
   {
     "objectID": "projects.html#project-title-1",
     "href": "projects.html#project-title-1",
     "title": "Projects",
     "section": "",
-    "text": "…"
+    "text": "Problem: …\nMy role: …\nApproach: …\nEvidence: - Repo: … - Output: …"
   },
   {
     "objectID": "about.html",

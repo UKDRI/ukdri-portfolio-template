@@ -1,12 +1,12 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 toc: false
 ---
 
 ::: {.cv-header}
 # Your Name
 
-<div class="cv-subtitle">Your Role / Title</div>
+<div class="cv-subtitle">Your role / job title</div>
 
 <div class="cv-links">
 <a href="https://your-website.example" aria-label="Website">🌐 your-website.example</a>
@@ -20,7 +20,12 @@ toc: false
 <span aria-label="Location">📍 Your location</span>
 </div>
 
-<!-- PROMPT: Put a PDF in assets/cv.pdf (optional). If you don't have one yet, delete the line below. -->
+<!--
+PROMPT:
+Optional.
+If you already have a PDF CV, put it in assets/cv.pdf and keep this link.
+If not, you can remove it — the HTML version is the main thing.
+-->
 <a class="cv-pdf" href="assets/cv.pdf">PDF</a>
 :::
 
@@ -29,14 +34,14 @@ toc: false
 ## Summary
 
 <!--
-PROMPT (2–4 sentences):
-- What is your role/identity professionally?
-- What types of problems do you work on?
-- What methods or domains are you strongest in?
-- What kind of impact do you aim for?
+PROMPT:
+2–4 sentences is plenty.
+Think “what do I do?” rather than “who am I?”.
+Focus on problems, methods, and impact.
 -->
 
-Write a short professional summary here. Keep it concrete, evidence-based, and readable.
+Write a short professional summary here. Keep it concrete and readable.
+Mention your main domain, the kinds of methods you use, and the impact you aim for.
 
 ---
 
@@ -45,36 +50,37 @@ Write a short professional summary here. Keep it concrete, evidence-based, and r
 <!--
 PROMPT:
 For each role:
-- Organisation, location (optional) — Role title (dates)
-- 2–4 impact bullets
-Use action + outcome when possible.
+- Organisation — role title (dates)
+- 2–4 bullets focusing on outcomes and responsibility
+Action + result works well.
 -->
 
-**Organisation — Role Title** *(YYYY–Present)*  
-- Impact bullet (what you delivered, improved, enabled, or led)  
-- Impact bullet (tools/methods are fine, but include “why it mattered”)  
-- Impact bullet
+**Organisation — Role title** *(YYYY–Present)*  
+- What you delivered, built, or enabled.
+- How this helped the project, team, or organisation.
+- Tools or methods are fine, but include *why it mattered*.
 
-**Organisation — Role Title** *(YYYY–YYYY)*  
-- Impact bullet  
-- Impact bullet
+**Organisation — Role title** *(YYYY–YYYY)*  
+- Impact-focused bullet.
+- Impact-focused bullet.
 
 ---
 
-## Selected Projects & Achievements
+## Selected projects & achievements
 
 <!--
 PROMPT:
-Pick 3–6 items.
-Each item should include:
-- Project/achievement name (bold)
-- 1 sentence on what you did + why it matters
-- Optional evidence links: repo / report / paper / poster
+Pick a small number (3–6).
+These can overlap with the Projects page — that’s fine.
+Keep each one to a single, strong sentence.
 -->
 
-- **Project / achievement title:** One-line impact statement. *(Evidence: [repo](#), [report](#))*  
-- **Project / achievement title:** One-line impact statement.  
-- **Community / leadership / training:** One-line impact statement.
+- **Project or achievement title:** What you did and why it matters.  
+  *(Evidence: [repo](#), [report](#), [paper](#))*
+
+- **Project or achievement title:** One-line impact statement.
+
+- **Community / leadership / training contribution:** One-line impact statement.
 
 ---
 
@@ -82,14 +88,14 @@ Each item should include:
 
 <!--
 PROMPT:
-Keep this scannable. Use categories and commas.
-Avoid long lists of buzzwords.
+Keep this skimmable.
+Categories help more than long lists.
 -->
 
-**Programming & Tools:** R, Python, Bash, Git, …  
-**Data Analysis:** Genomics, transcriptomics, statistics, visualisation, …  
-**Workflows & Reproducibility:** HPC, containers, CI, documentation, FAIR, …  
-**Communication & Teaching:** Workshop delivery, mentoring, stakeholder comms, …  
+**Programming & tools:** R, Python, Bash, Git, …  
+**Data & analysis:** Genomics, transcriptomics, statistics, visualisation, …  
+**Workflows & reproducibility:** HPC, containers, CI, documentation, FAIR, …  
+**Communication & teaching:** Workshops, mentoring, stakeholder communication, …  
 **Languages:** English (…), Portuguese (…), …
 
 ---
@@ -98,34 +104,35 @@ Avoid long lists of buzzwords.
 
 <!--
 PROMPT:
-Degree — Institution (dates)
-1 line on focus/thesis (optional)
+Degree — institution (dates).
+One short line on focus or thesis is optional.
 -->
 
 **Degree — Institution** *(YYYY–YYYY)*  
-Focus: …
+Focus or thesis area (optional).
 
 **Degree — Institution** *(YYYY–YYYY)*
 
 ---
 
-## Awards & Fellowships
+## Awards & fellowships
 
 <!--
 PROMPT:
-List the award/fellowship name — funder/organisation (year).
+List what you have — small awards count too.
 -->
 
-- Award / Fellowship — Organisation (YYYY)  
-- Travel grant — Organisation (YYYY)
+- Award / fellowship — organisation or funder (YYYY)  
+- Travel grant — organisation (YYYY)
 
 ---
 
-## Selected Publications
+## Selected publications
 
 <!--
 PROMPT:
-Keep this short (3–6). Link to full list on Outputs page if you have one.
+Keep this short (3–6).
+Link to the Outputs page for a full list if you have one.
 -->
 
 - Author, A. (Year). *Title.* Journal. Link  
@@ -133,14 +140,13 @@ Keep this short (3–6). Link to full list on Outputs page if you have one.
 
 ---
 
-## Outreach & Teaching
+## Outreach & teaching
 
 <!--
 PROMPT:
-Include anything that shows reach and contribution:
-- teaching, workshops, invited talks, public engagement, committees
+Include anything that shows reach beyond your immediate role.
 -->
 
-- Teaching / training contribution (audience, topic)  
-- Talk / poster / invited seminar  
-- Community service / committee / review activity
+- Teaching or training contribution (audience, topic)
+- Invited talk, poster, or seminar
+- Community service, committee work, or peer review

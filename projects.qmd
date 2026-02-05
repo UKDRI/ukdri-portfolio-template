@@ -3,7 +3,43 @@ title: "Projects"
 toc: false
 ---
 
+<!--
+This page is for short, evidence-backed project case studies.
+Think “what I worked on and what came out of it”, not full lab notebooks 🙂
+-->
+
 ::: {.grid}
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+## Project title
+
+<!-- PROMPT:
+1–2 sentences. What was the problem or question you were addressing?
+-->
+**Problem:** What needed solving, understanding, or building?
+
+<!-- PROMPT:
+Be explicit about *your* contribution.
+-->
+**My role:** What you were responsible for (analysis, methods, coordination, etc.).
+
+<!-- PROMPT:
+High level is fine.
+Focus on approach, tools, or concepts — not implementation detail.
+-->
+**Approach:** How you went about it (methods, data, tools).
+
+<!-- PROMPT:
+Evidence matters more than prose.
+Link to anything public or shareable.
+-->
+**Evidence:**
+- Repo: …
+- Report / preprint: …
+- Paper / poster: …
+:::
+:::
+
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
 ## Project title
@@ -12,17 +48,9 @@ toc: false
 **My role:** …  
 **Approach:** …  
 
-**Evidence:**  
+**Evidence:**
 - Repo: …
-- Report: …
-- Paper: …
-:::
-:::
-
-::: {.g-col-12 .g-col-md-6}
-::: {.card}
-## Project title
-...
+- Output: …
 :::
 :::
 :::

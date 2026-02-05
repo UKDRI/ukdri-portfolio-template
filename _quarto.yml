@@ -11,10 +11,10 @@ website:
         href: index.qmd
       - text: Projects
         href: projects.qmd
-      - text: Résumé for Research
-        href: resume.qmd
       - text: Outputs
         href: outputs.qmd
+      - text: Résumé for Research
+        href: resume.qmd
       - text: CV
         href: cv.qmd
 

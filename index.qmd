@@ -2,19 +2,30 @@
 title: "Home"
 toc: false
 ---
+<!--
+This homepage is intentionally simple.
+You can always add more later — start with clarity.
+-->
 
 ::: {.columns .home-hero}
 ::: {.column width="65%"}
 # Your Name
 
-<div class="home-subtitle">Your Role / Title</div>
+<div class="home-subtitle">Your role / job title</div>
 
-<!-- PROMPT: 2–4 lines: who you are, what you work on, why it matters -->
-Write your biography here. Keep it concrete and readable. Mention your domain,
-your approach (methods/tools), and what impact you care about.
+<!-- PROMPT:
+2–4 sentences is plenty.
+Say who you are, what you work on, and why it matters.
+No need to tell your whole life story 🙂
+-->
+Write a short professional bio here. Focus on your research or technical domain,
+the kinds of methods or tools you use, and the impact you care about.
 
-<!-- PROMPT: Optional: one line “affiliations / focus” -->
-*Affiliations. Address (optional). Contact links (optional). Motto (optional).*
+<!-- PROMPT:
+Optional one-liner.
+This could be an affiliation, institute, research group, or focus area.
+-->
+*Affiliation · Institute · Research focus (optional)*
 
 ::: {.home-links}
 [Website](#) · [GitHub](#) · [LinkedIn](#) · [ORCID](#)
@@ -22,12 +33,24 @@ your approach (methods/tools), and what impact you care about.
 :::
 
 ::: {.column width="35%"}
-![](assets/images/profile.png){.profile-pic fig-alt="Profile photo"}
+<!--
+PROMPT:
+Use a photo, illustration, or abstract banner image.
+This template uses an avatar/banner by default to keep things low-pressure.
+-->
+![](assets/images/profile.png){.profile-pic fig-alt="Profile image or banner"}
 :::
 :::
 
+---
 
 ## Focus areas
+
+<!--
+PROMPT:
+Pick 2–4 areas you’d be happy to talk about if someone asked,
+“What do you actually work on?”
+-->
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
@@ -53,12 +76,18 @@ Evidence-first reporting for collaborators and funders.
 
 ## Start here
 
+<!--
+PROMPT:
+These links help visitors (and future you!) navigate the site.
+Think of this as a “signpost” section.
+-->
+
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
 [**Projects →**](projects.qmd)
 
-Case studies with your role, approach, and evidence links.
+Short case studies showing what you did, how you did it, and why it matters.
 :::
 :::
 
@@ -66,7 +95,7 @@ Case studies with your role, approach, and evidence links.
 ::: {.card}
 [**Résumé for Research →**](resume.qmd)
 
-Four-module narrative CV aligned with funder expectations.
+A narrative CV using four modules, aligned with current funder expectations.
 :::
 :::
 
@@ -74,7 +103,7 @@ Four-module narrative CV aligned with funder expectations.
 ::: {.card}
 [**Outputs →**](outputs.qmd)
 
-Publications, talks, software, and datasets.
+Publications, talks, software, datasets, and other things you’ve put into the world.
 :::
 :::
 :::
