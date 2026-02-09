@@ -17,5 +17,20 @@
   "cv.qmd": {
     "cv.html": "e4da790b",
     "cv.tex": "0ec7f08a"
+  },
+  "pages/outputs.qmd": {
+    "outputs.html": "36fc1283"
+  },
+  "pages/resume.qmd": {
+    "resume.html": "1538e8a3"
+  },
+  "pages/projects.qmd": {
+    "projects.html": "c50ac793"
+  },
+  "pages/about.qmd": {
+    "about.html": "c6bcf17f"
+  },
+  "pages/cv.qmd": {
+    "cv.html": "c9925fe7"
   }
 }

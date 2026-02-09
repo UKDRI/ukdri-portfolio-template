@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - assets/**
+  execute-dir: project
 
 website:
   title: "<span class='site-name'><strong>Your</strong> Name</span>"
@@ -10,13 +11,13 @@ website:
       - text: Home
         href: index.qmd
       - text: Projects
-        href: projects.qmd
+        href: pages/projects.qmd
       - text: Outputs
-        href: outputs.qmd
+        href: pages/outputs.qmd
       - text: Résumé for Research
-        href: resume.qmd
+        href: pages/resume.qmd
       - text: CV
-        href: cv.qmd
+        href: pages/cv.qmd
 
     right:
       - icon: github

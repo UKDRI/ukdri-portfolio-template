@@ -9,7 +9,7 @@ toc: false
 <div class="cv-subtitle">Your role / job title</div>
 
 <div class="cv-links">
-{{< include _partials/links.html >}}
+{{< include ../_partials/links.html >}}
 </div>
 
 

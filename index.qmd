@@ -85,7 +85,7 @@ Think of this as a “signpost” section.
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
-[**Projects →**](projects.qmd)
+[**Projects →**](pages/projects.qmd)
 
 Short case studies showing what you did, how you did it, and why it matters.
 :::
@@ -93,7 +93,7 @@ Short case studies showing what you did, how you did it, and why it matters.
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
-[**Résumé for Research →**](resume.qmd)
+[**Résumé for Research →**](pages/resume.qmd)
 
 A narrative CV using four modules, aligned with current funder expectations.
 :::
@@ -101,7 +101,7 @@ A narrative CV using four modules, aligned with current funder expectations.
 
 ::: {.g-col-12 .g-col-md-4}
 ::: {.card}
-[**Outputs →**](outputs.qmd)
+[**Outputs →**](pages/outputs.qmd)
 
 Publications, talks, software, datasets, and other things you’ve put into the world.
 :::
