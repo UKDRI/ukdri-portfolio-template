@@ -185,3 +185,77 @@ Goal: intro text + avatar/banner image with a calm, professional feel
   display: block;
   margin-left: auto;
 }
+
+/* -----------------------------------------------------------------------------
+Résumé for Research: tighter spacing inside contribution cards
+----------------------------------------------------------------------------- */
+
+/* Reduce padding inside cards */
+.card {
+  padding: 1.1rem 1.25rem;
+}
+
+/* Tighten space under contribution titles */
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+}
+
+/* Tighten list spacing inside cards */
+.card ul {
+  margin-top: 0.4rem;
+  margin-bottom: 0;
+  padding-left: 1.1rem;
+}
+
+/* Slightly reduce spacing between list items */
+.card li {
+  margin-bottom: 0.3rem;
+}
+/* Reusable profile link block */
+.profile-links {
+  font-size: 1rem;
+  opacity: 0.95;
+}
+
+.profile-links a {
+  text-decoration: none;
+}
+
+.profile-links a:hover {
+  text-decoration: underline;
+}
+
+.profile-links .sep {
+  margin: 0 0.25rem;
+  opacity: 0.6;
+}
+
+
+/* Reusable profile link block */
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;        /* allows wrapping on small screens */
+  gap: 0.4rem;            /* spacing between items */
+  align-items: center;
+  font-size: 1rem;
+  opacity: 0.95;
+}
+
+.profile-links a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.profile-links a:hover {
+  text-decoration: underline;
+}
+
+.profile-links .sep {
+  opacity: 0.6;
+}
+
+/* Center profile links when used in CV header */
+.cv-links .profile-links {
+  justify-content: center;
+}

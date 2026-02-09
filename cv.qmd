@@ -9,16 +9,9 @@ toc: false
 <div class="cv-subtitle">Your role / job title</div>
 
 <div class="cv-links">
-<a href="https://your-website.example" aria-label="Website">🌐 your-website.example</a>
-<span class="cv-sep">|</span>
-<a href="https://github.com/yourusername" aria-label="GitHub">🐙 GitHub</a>
-<span class="cv-sep">|</span>
-<a href="https://www.linkedin.com/in/yourprofile" aria-label="LinkedIn">in LinkedIn</a>
-<span class="cv-sep">|</span>
-<a href="https://orcid.org/0000-0000-0000-0000" aria-label="ORCID">iD ORCID</a>
-<span class="cv-sep">|</span>
-<span aria-label="Location">📍 Your location</span>
+{{< include _partials/links.html >}}
 </div>
+
 
 <!--
 PROMPT:

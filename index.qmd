@@ -27,9 +27,9 @@ This could be an affiliation, institute, research group, or focus area.
 -->
 *Affiliation · Institute · Research focus (optional)*
 
-::: {.home-links}
-[Website](#) · [GitHub](#) · [LinkedIn](#) · [ORCID](#)
-:::
+{{< include _partials/links.html >}}
+
+
 :::
 
 ::: {.column width="35%"}

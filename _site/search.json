@@ -4,7 +4,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Your role / job title\n\n\n🌐 your-website.example | 🐙 GitHub | in LinkedIn | iD ORCID | 📍 Your location\n\n\nPDF"
+    "text": "Your role / job title\n\n\n\n\n🌐 Website ·\n🐙 GitHub ·\n💼 LinkedIn ·\n🧬 ORCID\n\n\n\nPDF"
   },
   {
     "objectID": "cv.html#summary",
@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Your role / job title\n\n\nWrite a short professional bio here. Focus on your research or technical domain, the kinds of methods or tools you use, and the impact you care about.\n\nAffiliation · Institute · Research focus (optional)\n\nWebsite · GitHub · LinkedIn · ORCID"
+    "text": "Your role / job title\n\n\nWrite a short professional bio here. Focus on your research or technical domain, the kinds of methods or tools you use, and the impact you care about.\n\nAffiliation · Institute · Research focus (optional)\n\n\n🌐 Website ·\n🐙 GitHub ·\n💼 LinkedIn ·\n🧬 ORCID"
   },
   {
     "objectID": "index.html#focus-areas",
